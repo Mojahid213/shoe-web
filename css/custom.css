@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+.top-fonts{
+    font-size: 60px;
+    font-weight: bold;
+}
+.top-color{
+    color:#363958;
+}
+.offer-color{
+   background:#ffcc29;
+}
+.off-color{
+    color:#d83121;
+}
+
+.off-2-color{
+    color:#c34a36;
+}
+
+.custom-width{
+    width:80%;
+}
+
+.con-width{
+    width:45%;
+}
+.panda-email{
+    height:300px;
+    background-color: #ff7b54;
+}
+.re-border{
+    border:0;
+}
+.custom-bg{
+    background: rgb(231, 231, 231);
+}
+
